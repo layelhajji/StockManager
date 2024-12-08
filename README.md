@@ -1,4 +1,4 @@
-# 📦 Gestion des Stocks - Projet en C 🛒
+# 📦 Gestion des Stocks
 
 ## 🎯 Description
 Ce projet implémente un système de gestion de stock pour les produits dans un magasin. Il permet à un administrateur de gérer les produits dans l'inventaire, avec des fonctionnalités d'ajout, modification, suppression, et recherche de produits. Un historique des actions est également enregistré pour un suivi détaillé des modifications effectuées sur les produits.
